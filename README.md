@@ -3,4 +3,4 @@ This project involves the use of NumPy, Pandas, MatPlotlib, Seaborn, Scipy and P
 This repository contains:    
 - a copy of the dataset [Titanic dataset](./titanic_data.csv)
 - An [iPython Notebook](./Investigate_a_Dataset.ipynb) with my analysis
-- A copy of my analsis in [HTML](./Investigate_a_Dataset.html)
+- A copy of my analysis in [HTML](./Investigate_a_Dataset.html)
